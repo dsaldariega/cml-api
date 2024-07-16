@@ -1,0 +1,22 @@
+{
+    "contacts": [
+        {
+            "id": "3eaf",
+            "name": "test",
+            "email": "test@test.com",
+            "contact_number": 1234
+        },
+        {
+            "id": "c4fd",
+            "name": "Test",
+            "email": "Test@test.com",
+            "contact_number": "12345"
+        },
+        {
+            "id": "1517",
+            "name": "contact 1",
+            "contact_number": "12345",
+            "email": "contact1@email.com"
+        }
+    ]
+}
